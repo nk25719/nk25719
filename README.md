@@ -13,7 +13,7 @@ Bachelor of Engineering in Electric and Electronic Engineering Emphasis On Biome
 ## Skills
 
 **Project Management**
-Creating Standard operating procedures, Creating and completing Issues , creating boards, creating Milestones, creating issue templates, assigning and deligating issue/tasks.
+Creating Standard operating procedures, Creating and completing Issues , creating and managing boards/Milestones, issue templates, assigning and deligating issue/tasks.
 
 **Programming languages**  
 C, C++, Python, SQL
