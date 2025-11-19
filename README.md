@@ -19,7 +19,7 @@ Creating Standard operating procedures, Creating and completing Issues , creatin
 C, C++, Python, SQL
 
 **Embedded & IoT**  
-ESP32, Arduino, PlatformIO, GPIO, SPI, UART, I²C, sensors, DFPlayer, WiFi, MQTT, LittleFS, factory/test firmware
+ESP32, Arduino, PlatformIO, GPIO, SPI, UART, I²C, sensors, mini-mp3 Player, WiFi, MQTT, LittleFS, factory/test firmware
 
 **Web & backend**  
 HTML, CSS, JavaScript, basic React, REST APIs, Firebase (Auth, Firestore, Functions), Python (FastAPI, Flask)
