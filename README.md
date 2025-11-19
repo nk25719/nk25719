@@ -1,28 +1,25 @@
-## Hi there 👋
+## Nagham Kheir 👋
 
- 
-**nk25719/nk25719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Engineering in Electric and Electronic Engineering Emphasis On Biomedical.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Krake https://github.com/PubInv/krake 
-- 🌱 I’m currently learning: Medical device designing.
-- 👯 I’m looking to collaborate on Open-source collaborations around medical devices, IoT, and tools.
-- 🤔 I’m looking for help with Coding.
+- 🔭 Working on Krake https://github.com/PubInv/krake 
+- 🌱 Learning: Medical device designing.
+- 👯 Collaborating on Open-source projects around medical devices.
 - 💬 Ask me about anything you need help with.
 - 📫 How to reach me: Naghamkheir25@gmail.com // mob: +961 70554 481
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
  
-
 
 ## Skills
 
+**Project Management**
+Creating Standard operating procedures, Creating and completing Issues , creating boards, creating Milestones, creating issue templates, assigning and deligating issue/tasks.
+
 **Programming languages**  
-C, C++, Python, JavaScript, SQL
+C, C++, Python, SQL
 
 **Embedded & IoT**  
-ESP32 (ESP32-WROOM-32D), Arduino, PlatformIO, GPIO, SPI, I²C, LCD/OLED, rotary encoders, relays, sensors, DFPlayer, WiFi, MQTT, LittleFS, factory/test firmware
+ESP32, Arduino, PlatformIO, GPIO, SPI, UART, I²C, sensors, DFPlayer, WiFi, MQTT, LittleFS, factory/test firmware
 
 **Web & backend**  
 HTML, CSS, JavaScript, basic React, REST APIs, Firebase (Auth, Firestore, Functions), Python (FastAPI, Flask)
@@ -34,4 +31,9 @@ Embeddings, vector / cosine similarity search, basic image matching workflows, R
 KiCad (boards design, schematics, footprints, BOM), 3D printing (Bambu A1 Mini), FreeCAD, mechanical/fixture design support
 
 **Documentation & tooling**  
-Markdown, LaTeX/Overleaf, Git & GitHub (branches, PRs, issues, templates, workflows), Bash/shell
+Markdown, LaTeX/Overleaf, Bash/shell
+
+**Version Control & file sharing**  
+Git, GitHub
+
+
